@@ -1,6 +1,6 @@
 {
-  "itemDisplayName": "DockerPaaS",
+  "itemDisplayName": "Azure Week Experience - Conteiners on DevTest",
 
-  "description": "Use this template to user Docker PaaS"
+  "description": "Use this template to delivery Docker Conteiners PaaS on DevTest Labs"
 
 }
